@@ -1,0 +1,67 @@
+---
+title: "Cartogrammes et Anti-cartogrammes"
+author: "Violène Jury, Nicolas Lambert, Ronan Ysebaert"
+date: "November 26, 2019"
+output:
+  rmdformats::readthedown
+bibliography: biblio.bib
+link_citations: true
+  
+---
+
+Ce document explique comment créer des cartogrammes et des anti-cartogrammes en R. Il examine également l'intérêt et la complémentarité de ces deux approches. 
+
+EN COURS....
+
+# A propos
+
+Mini état de l'art quelques références biblio
+
+# Packages
+
+Nous utlisions les packages *sf*, *cartography* et *cartogram* [@cartogram]
+
+# Données
+
+Présentation des données
+
+```{r, eval = TRUE, message = FALSE, warning = FALSE}
+# data import
+```
+
+# Cartogrammes
+
+xxx
+
+```{r, eval = TRUE, message = FALSE, warning = FALSE}
+# Map template
+
+# Transformation
+
+# Cartography
+```
+
+# Anticartogrammes
+
+xx
+
+```{r, eval = TRUE, message = FALSE, warning = FALSE}
+# Data handling 
+
+# Map template
+
+# Transformation
+
+# Cartography
+```
+
+# Discussion
+
+xx
+
+# Session info
+```{r}
+sessionInfo()
+```
+
+# Sources & références
