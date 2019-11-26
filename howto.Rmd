@@ -1,6 +1,6 @@
 ---
 title: "Cartogrammes et Anti-cartogrammes"
-author: "Violène Jury, Nicolas Lambert, Ronan Ysebaert"
+author: "Violaine Jury, Nicolas Lambert, Ronan Ysebaert"
 date: "November 26, 2019"
 output:
   rmdformats::readthedown
